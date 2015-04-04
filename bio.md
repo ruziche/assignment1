@@ -1,4 +1,5 @@
 
 My biggest hobby used to be birding before I had a baby.  Now I spend all my spare time with my lovely daughter.
+Now I enjoy photography because I can take pictures of my daughter.
 
 #Programming Background
