@@ -1,6 +1,5 @@
 
-My biggest hobby used to be birding before I had a baby.  Now I spend all my spare time with my lovely daughter.
-Now I enjoy photography because I can take pictures of my daughter.
+My biggest hobbies used to be birding and bird photography before I had a baby.  Now I spend all my spare time with my lovely daughter.  I maintain the photography hobby, but now I just take pictures of my daughter.
 
 #Programming Background
 My favorite project involved creating a hangman GUI.
